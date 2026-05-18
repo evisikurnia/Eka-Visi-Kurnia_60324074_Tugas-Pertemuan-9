@@ -64,5 +64,34 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 
-#Tugas Laravel - Routing dan Controller
+# Tugas Laravel - Routing dan Controller
+**Nama:** Eka Visi Kurnia  
+**NIM:** 60324074
 
+---
+
+## Deskripsi Project
+Project ini merupakan implementasi dasar Laravel 13 dengan fokus pada konsep MVC (Model-View-Controller).
+
+Fitur utama dalam project ini meliputi:
+- Routing Laravel
+- Controller untuk pengolahan data
+- View menggunakan Blade Template
+- Desain tampilan menggunakan Bootstrap 5
+
+Project ini terdiri dari dua modul utama:
+- Data Anggota
+- Data Kategori Buku
+
+---
+
+## Routing yang Digunakan
+### Modul Anggota
+  - /anggota → Menampilkan seluruh data anggota
+  - /anggota/{id} → Menampilkan detail anggota berdasarkan ID
+### Modul Kategori Buku 
+  - /kategori → Menampilkan seluruh kategori buku
+  - /kategori/{id} → Menampilkan detail kategori berdasarkan ID
+  - /kategori/search/{keyword} → Pencarian kategori berdasarkan keyword
+    
+```
