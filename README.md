@@ -71,7 +71,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ---
 
 ## Deskripsi Project
-Project ini merupakan implementasi dasar Laravel 13 dengan fokus pada konsep MVC (Model-View-Controller).
+Project ini merupakan implementasi dasar Laravel 12 dengan fokus pada konsep MVC (Model-View-Controller).
 
 Fitur utama dalam project ini meliputi:
 - Routing Laravel
